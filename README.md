@@ -1,5 +1,7 @@
 ## Dual-Tier Opt. for Accurate and Real-Time Measurement of Large-Scale Surfaces
 
+<img src="assets/pipeline_boxed_tie.png">
+
 https://github.com/user-attachments/assets/53a8ec4f-60fe-4958-b690-2b9fdf1896f3
 
 ## 1. Credits
